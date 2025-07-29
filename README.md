@@ -1,1 +1,1 @@
-## PDF Notes on Machine Learning, Deep Learning | CampusX | Nitish Singh Sir
+## PDF Notes on Machine Learning, Deep Learning and NLP | CampusX | ineuron
